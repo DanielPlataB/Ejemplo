@@ -1,0 +1,17 @@
+commit be104980b44b4b1353408838ef750cba47ecf086
+Author: Daniel Plata <platabalbuenadanielarath@gmail.com>
+Date:   Wed Mar 4 13:54:27 2020 -0600
+
+    numero
+
+commit e831d239645076333d84b8b4055c418474ed0d40
+Author: Daniel Plata <platabalbuenadanielarath@gmail.com>
+Date:   Wed Mar 4 13:49:31 2020 -0600
+
+    Grege mi nombre
+
+commit 0a32cf19b076b55c9d9860b9712a85086056aaf7
+Author: Daniel Plata <platabalbuenadanielarath@gmail.com>
+Date:   Wed Mar 4 13:40:28 2020 -0600
+
+    Iniciamos
